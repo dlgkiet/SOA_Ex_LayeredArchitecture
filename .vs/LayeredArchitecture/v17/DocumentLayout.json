@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\LayeredArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6187AE6-79A4-459F-8B5D-B3200C2C9031}|Presentation\\Presentation.csproj|d:\\code\\layeredarchitecture\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6187AE6-79A4-459F-8B5D-B3200C2C9031}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6187AE6-79A4-459F-8B5D-B3200C2C9031}|Presentation\\Presentation.csproj|d:\\code\\layeredarchitecture\\presentation\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6187AE6-79A4-459F-8B5D-B3200C2C9031}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C1946C-2D52-40D9-A6C1-A2910FB5CDC4}|Persistence\\Persistence.csproj|d:\\code\\layeredarchitecture\\persistence\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C1946C-2D52-40D9-A6C1-A2910FB5CDC4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C1946C-2D52-40D9-A6C1-A2910FB5CDC4}|Persistence\\Persistence.csproj|d:\\code\\layeredarchitecture\\persistence\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C1946C-2D52-40D9-A6C1-A2910FB5CDC4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A63BAB2-0DFE-4C8E-A4A4-595CBE3CC38D}|Business\\Business.csproj|d:\\code\\layeredarchitecture\\business\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A63BAB2-0DFE-4C8E-A4A4-595CBE3CC38D}|Business\\Business.csproj|solutionrelative:business\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6187AE6-79A4-459F-8B5D-B3200C2C9031}|Presentation\\Presentation.csproj|d:\\code\\layeredarchitecture\\presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6187AE6-79A4-459F-8B5D-B3200C2C9031}|Presentation\\Presentation.csproj|solutionrelative:presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A63BAB2-0DFE-4C8E-A4A4-595CBE3CC38D}|Business\\Business.csproj|d:\\code\\layeredarchitecture\\business\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A63BAB2-0DFE-4C8E-A4A4-595CBE3CC38D}|Business\\Business.csproj|solutionrelative:business\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C1946C-2D52-40D9-A6C1-A2910FB5CDC4}|Persistence\\Persistence.csproj|d:\\code\\layeredarchitecture\\persistence\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C1946C-2D52-40D9-A6C1-A2910FB5CDC4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C1946C-2D52-40D9-A6C1-A2910FB5CDC4}|Persistence\\Persistence.csproj|d:\\code\\layeredarchitecture\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C1946C-2D52-40D9-A6C1-A2910FB5CDC4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A63BAB2-0DFE-4C8E-A4A4-595CBE3CC38D}|Business\\Business.csproj|d:\\code\\layeredarchitecture\\business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A63BAB2-0DFE-4C8E-A4A4-595CBE3CC38D}|Business\\Business.csproj|solutionrelative:business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C1946C-2D52-40D9-A6C1-A2910FB5CDC4}|Persistence\\Persistence.csproj|d:\\code\\layeredarchitecture\\persistence\\persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{48C1946C-2D52-40D9-A6C1-A2910FB5CDC4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C1946C-2D52-40D9-A6C1-A2910FB5CDC4}|Persistence\\Persistence.csproj|d:\\code\\layeredarchitecture\\persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C1946C-2D52-40D9-A6C1-A2910FB5CDC4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\code\\LayeredArchitecture\\Presentation\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\code\\LayeredArchitecture\\Presentation\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T03:47:24.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code\\LayeredArchitecture\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "D:\\code\\LayeredArchitecture\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T03:45:19.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\code\\LayeredArchitecture\\Business\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\CustomerService.cs",
+              "ToolTip": "D:\\code\\LayeredArchitecture\\Business\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Business\\Services\\CustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T03:44:57.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "D:\\code\\LayeredArchitecture\\Business\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\ICustomerService.cs",
+              "ToolTip": "D:\\code\\LayeredArchitecture\\Business\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "Business\\Services\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T03:44:31.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\code\\LayeredArchitecture\\Persistence\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "D:\\code\\LayeredArchitecture\\Persistence\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T03:42:32.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\code\\LayeredArchitecture\\Persistence\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Persistence\\Models\\Customer.cs",
+              "ToolTip": "D:\\code\\LayeredArchitecture\\Persistence\\Models\\Customer.cs",
+              "RelativeToolTip": "Persistence\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T03:38:16.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\code\\LayeredArchitecture\\Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\appsettings.json",
+              "ToolTip": "D:\\code\\LayeredArchitecture\\Presentation\\appsettings.json",
+              "RelativeToolTip": "Presentation\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T03:48:15.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\code\\LayeredArchitecture\\Persistence\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\ICustomerRepository.cs",
+              "ToolTip": "D:\\code\\LayeredArchitecture\\Persistence\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T03:42:07.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\code\\LayeredArchitecture\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Persistence\\AppDbContext.cs",
+              "ToolTip": "D:\\code\\LayeredArchitecture\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "Persistence\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T03:37:16.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Persistence",
+              "DocumentMoniker": "D:\\code\\LayeredArchitecture\\Persistence\\Persistence.csproj",
+              "RelativeDocumentMoniker": "Persistence\\Persistence.csproj",
+              "ToolTip": "D:\\code\\LayeredArchitecture\\Persistence\\Persistence.csproj",
+              "RelativeToolTip": "Persistence\\Persistence.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-18T03:35:20.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\code\\LayeredArchitecture\\Persistence\\Class1.cs",
+              "RelativeDocumentMoniker": "Persistence\\Class1.cs",
+              "ToolTip": "D:\\code\\LayeredArchitecture\\Persistence\\Class1.cs",
+              "RelativeToolTip": "Persistence\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T03:13:03.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\code\\LayeredArchitecture\\Business\\Class1.cs",
+              "RelativeDocumentMoniker": "Business\\Class1.cs",
+              "ToolTip": "D:\\code\\LayeredArchitecture\\Business\\Class1.cs",
+              "RelativeToolTip": "Business\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T03:12:41.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

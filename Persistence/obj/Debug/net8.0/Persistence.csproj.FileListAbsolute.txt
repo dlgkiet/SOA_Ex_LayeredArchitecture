@@ -1,0 +1,12 @@
+D:\code\LayeredArchitecture\Persistence\bin\Debug\net8.0\Persistence.deps.json
+D:\code\LayeredArchitecture\Persistence\bin\Debug\net8.0\Persistence.dll
+D:\code\LayeredArchitecture\Persistence\bin\Debug\net8.0\Persistence.pdb
+D:\code\LayeredArchitecture\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+D:\code\LayeredArchitecture\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\LayeredArchitecture\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+D:\code\LayeredArchitecture\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+D:\code\LayeredArchitecture\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+D:\code\LayeredArchitecture\Persistence\obj\Debug\net8.0\Persistence.dll
+D:\code\LayeredArchitecture\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+D:\code\LayeredArchitecture\Persistence\obj\Debug\net8.0\Persistence.pdb
+D:\code\LayeredArchitecture\Persistence\obj\Debug\net8.0\ref\Persistence.dll

@@ -1,0 +1,15 @@
+D:\code\LayeredArchitecture\Business\bin\Debug\net8.0\Business.deps.json
+D:\code\LayeredArchitecture\Business\bin\Debug\net8.0\Business.dll
+D:\code\LayeredArchitecture\Business\bin\Debug\net8.0\Business.pdb
+D:\code\LayeredArchitecture\Business\bin\Debug\net8.0\Persistence.dll
+D:\code\LayeredArchitecture\Business\bin\Debug\net8.0\Persistence.pdb
+D:\code\LayeredArchitecture\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+D:\code\LayeredArchitecture\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\LayeredArchitecture\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+D:\code\LayeredArchitecture\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+D:\code\LayeredArchitecture\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+D:\code\LayeredArchitecture\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+D:\code\LayeredArchitecture\Business\obj\Debug\net8.0\Business.dll
+D:\code\LayeredArchitecture\Business\obj\Debug\net8.0\refint\Business.dll
+D:\code\LayeredArchitecture\Business\obj\Debug\net8.0\Business.pdb
+D:\code\LayeredArchitecture\Business\obj\Debug\net8.0\ref\Business.dll
